@@ -1,0 +1,16 @@
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\obj\Debug\net5.0\Allergies.csproj.AssemblyReference.cache
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\obj\Debug\net5.0\Allergies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\obj\Debug\net5.0\Allergies.AssemblyInfoInputs.cache
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\obj\Debug\net5.0\Allergies.AssemblyInfo.cs
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\obj\Debug\net5.0\Allergies.csproj.CoreCompileInputs.cache
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\bin\Debug\net5.0\Allergies.exe
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\bin\Debug\net5.0\Allergies.deps.json
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\bin\Debug\net5.0\Allergies.runtimeconfig.json
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\bin\Debug\net5.0\Allergies.runtimeconfig.dev.json
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\bin\Debug\net5.0\Allergies.dll
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\bin\Debug\net5.0\ref\Allergies.dll
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\bin\Debug\net5.0\Allergies.pdb
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\obj\Debug\net5.0\Allergies.dll
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\obj\Debug\net5.0\ref\Allergies.dll
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\obj\Debug\net5.0\Allergies.pdb
+C:\Users\young\desktop\code-projects\allergies-program\Allergies\obj\Debug\net5.0\Allergies.genruntimeconfig.cache
