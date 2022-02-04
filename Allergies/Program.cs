@@ -13,6 +13,9 @@ namespace Allergies.Models
 
       Console.WriteLine("Enter your allergy score: ");
       int score = int.Parse(Console.ReadLine());
+
+      // GetListAllergies("egg", "peanuts");
+      
     }      
   }
 }  

@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace Allergies.Models {
 
@@ -12,12 +13,21 @@ namespace Allergies.Models {
       Allergen = allergen;
       Score = score;
     }
-    // List<Car> Cars = new List<Car>() {egg, peanuts};
-    // public int AddTwoAllergens (int score)
-    // {
-          
-    // }
     
+    public string GetListAllergies(int score) 
+    {
+      List<Allergy> AllergyAll=new List <Allergy>{egg, peanuts};
+      List <Allergy> AllergyList =new List <Allergy>{};
+  
+      foreach (Allergy element in AllergyAll)
+      {
+        if (element.score <= score) 
+        {
+        AllergyList.Add(element); 
+        }
+      }
+    }  
+
     public string AllergyChecker(int score)
     {
       if (score == this.Score)

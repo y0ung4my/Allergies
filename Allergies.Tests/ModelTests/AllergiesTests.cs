@@ -13,5 +13,11 @@ namespace Allergies.Tests
       Allergy egg = new Allergy("egg", 1); 
       Assert.AreEqual("egg", egg.AllergyChecker(1));
     }
+    [TestMethod]
+    public void GetListAllergies_GettingListOfAllergies_Elements()
+    {
+      Allergy egg = new Allergy("egg", 1); 
+      Allergy peanuts = new Allergy("peanuts", 2);
+      Assert.AreEqual({{"egg", 1}, {"peanuts", 2}}, GetListAllergies(3));
   }
 }
